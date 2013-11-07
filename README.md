@@ -21,5 +21,5 @@ SlidingDrawer 拖拉窗控件
 两种状态，很难满足实际项目中的很多需求，而且也不方便扩展。
 
 我在自己项目中需要一个拖拉窗，可以打开，关闭，和半开三种状态，没有找到合适的控件使用，就自己写这个控件，窗口滑动动画使用
-了属性动画，为了支持底版本，使用了 NineOldAndroids（http://nineoldandroids.com/）兼容包，可以通过点击或拖动来改变窗口状态。
+了属性动画，为了支持底版本，使用了 NineOldAndroids（http://nineoldandroids.com/） 兼容包，可以通过点击或拖动来改变窗口状态。
 
