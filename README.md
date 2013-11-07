@@ -10,7 +10,7 @@ In my case I need a sliding drawer which support drag to top,drag to center or t
 SlidingDrawer widget, you can drag or click to operate the drawer.
 
 It use "property animation"  do the animation, to support the low API level, I use the NineOldAndroids compatible 
-pakage(download in http://nineoldandroids.com/).
+package (download in http://nineoldandroids.com/).
 
 
 
